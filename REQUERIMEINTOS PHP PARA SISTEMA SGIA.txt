@@ -1,0 +1,6 @@
+xampp version 7.1.1
+Xampp control panel v3.2.2
+
+compiled NOv 12 de 2015
+
+VERSION DE PHP 7.1.1
